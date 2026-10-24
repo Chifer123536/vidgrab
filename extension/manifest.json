@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "VidGrab",
   "version": "1.0.0",
-  "description": "Скачивание видео и звука с YouTube, Pornhub и ещё ~1800 сайтов через yt-dlp.",
+  "description": "Скачивание видео и звука с YouTube и ещё ~1800 сайтов через yt-dlp.",
   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3Htp7R8NKN6X8jVIgahCoZrnoKbG2frxwmh8e1gqbNjKczp+syQ4s2+EBd5XxKkVrjLbdmgPFOvRd2ZWMKKKhE4CtpFJzrpyu3cuv2g6DB7O24hVyb2yGSiEaIwiuYl/5IQDgqOLxO6Y08jmuBaoWNrQMDpM/D0QMzevGuuwj/bW2a4UEElIe35egg2QO4Uq0E34EG4oGZTfK1BFvcfJgvUQHZVaSXHr+woqFM/q+V17FHxYWTPftZrLzaTB2LDyJ9MhX4FhKiZwvq8ZCDMakrXYt3+2PSpia8oVzP7OWgIJajsl5G+ouoaVLoIycOutUiMR/kfE2QffczEIQ9w/TQIDAQAB",
   "minimum_chrome_version": "116",
   "icons": {
